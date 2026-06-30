@@ -16,6 +16,7 @@ const FLAG_MAP = {
   'Algeria':'🇩🇿','South Africa':'🇿🇦','Qatar':'🇶🇦',
 };
 function getFlag(n){return FLAG_MAP[n]||'⚽'}
+function getTeamName(t) { return typeof t === 'string' ? t : t.name; }
 
 function ProbabilityBar({ label, pct, color, delay = 0 }) {
   const [w, setW] = useState(0);
@@ -23,7 +24,6 @@ function ProbabilityBar({ label, pct, color, delay = 0 }) {
     const t = setTimeout(() => setW(pct), 100 + delay);
     return () => clearTimeout(t);
   }, [pct, delay]);
-
   return (
     <div className="mb-4">
       <div className="flex justify-between items-center mb-1">
@@ -32,7 +32,7 @@ function ProbabilityBar({ label, pct, color, delay = 0 }) {
       </div>
       <div className="h-4 bg-gray-800 rounded-full overflow-hidden">
         <div className="h-full rounded-full transition-all duration-1000 ease-out"
-          style={{ width: `${Math.min(w, 100)}%`, backgroundColor: color, boxShadow: `0 0 10px ${color}40` }} />
+          style={{ width: Math.min(w, 100) + '%', backgroundColor: color, boxShadow: '0 0 10px ' + color + '40' }} />
       </div>
     </div>
   );
@@ -42,7 +42,8 @@ function TeamSelector({ teams, value, onChange, label }) {
   const [query, setQuery] = useState('');
   const [open, setOpen] = useState(false);
   const ref = useRef(null);
-  const filtered = teams.filter(t => t.toLowerCase().includes(query.toLowerCase())).slice(0, 20);
+  const teamNames = teams.map(getTeamName);
+  const filtered = teamNames.filter(t => t.toLowerCase().includes(query.toLowerCase())).slice(0, 20);
 
   useEffect(() => {
     function handler(e) { if (ref.current && !ref.current.contains(e.target)) setOpen(false); }
@@ -69,8 +70,7 @@ function TeamSelector({ teams, value, onChange, label }) {
         {open && filtered.length > 0 && (
           <div className="absolute z-50 w-full mt-1 bg-gray-900 border border-gray-700 rounded-lg shadow-xl max-h-60 overflow-y-auto">
             {filtered.map(team => (
-              <div key={team}
-                className="flex items-center px-3 py-2 hover:bg-orange-900/40 cursor-pointer transition-colors"
+              <div key={team} className="flex items-center px-3 py-2 hover:bg-orange-900/40 cursor-pointer transition-colors"
                 onClick={() => { onChange(team); setQuery(''); setOpen(false); }}>
                 <span className="text-xl mr-2">{getFlag(team)}</span>
                 <span className="text-white">{team}</span>
@@ -169,19 +169,19 @@ export default function Home() {
               </div>
             </div>
 
-            <ProbabilityBar label={`${home} Win`} pct={prediction.home_win_prob} color="#f97316" delay={0} />
+            <ProbabilityBar label={home + ' Win'} pct={prediction.home_win_prob} color="#f97316" delay={0} />
             <ProbabilityBar label="Draw" pct={prediction.draw_prob} color="#6b7280" delay={200} />
-            <ProbabilityBar label={`${away} Win`} pct={prediction.away_win_prob} color="#3b82f6" delay={400} />
+            <ProbabilityBar label={away + ' Win'} pct={prediction.away_win_prob} color="#3b82f6" delay={400} />
 
             {prediction.analysis && (
               <div className="mt-6 pt-4 border-t border-gray-800">
                 <h3 className="text-xs uppercase tracking-wider text-gray-500 mb-3">Key Factors</h3>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
                   {[
-                    { label: 'Rank Gap', value: `#${prediction.analysis.home_rank || '?'} vs #${prediction.analysis.away_rank || '?'}` },
-                    { label: 'Points Diff', value: `${(prediction.analysis.points_diff || 0).toFixed(0)}` },
-                    { label: 'Home Form', value: `${((prediction.analysis.recent_form_home || 0) * 100).toFixed(0)}%` },
-                    { label: 'Away Form', value: `${((prediction.analysis.recent_form_away || 0) * 100).toFixed(0)}%` },
+                    { label: 'Rank Gap', value: '#' + (prediction.analysis.home_rank || '?') + ' vs #' + (prediction.analysis.away_rank || '?') },
+                    { label: 'Points Diff', value: '' + (prediction.analysis.points_diff || 0).toFixed(0) },
+                    { label: 'Home Form', value: '' + ((prediction.analysis.recent_form_home || 0) * 100).toFixed(0) + '%' },
+                    { label: 'Away Form', value: '' + ((prediction.analysis.recent_form_away || 0) * 100).toFixed(0) + '%' },
                   ].map(f => (
                     <div key={f.label} className="bg-gray-800/50 rounded-lg p-3 text-center">
                       <p className="text-xs text-gray-500">{f.label}</p>
@@ -191,9 +191,7 @@ export default function Home() {
                 </div>
                 {prediction.analysis.h2h && (
                   <div className="mt-3 text-center">
-                    <p className="text-xs text-gray-500">
-                      Head-to-Head: {prediction.analysis.h2h.total} matches • {home} {prediction.analysis.h2h.home_wins}W • Draw {prediction.analysis.h2h.draws}D • {away} {prediction.analysis.h2h.away_wins}W
-                    </p>
+                    <p className="text-xs text-gray-500">Head-to-Head: {prediction.analysis.h2h.total} matches &bull; {home} {prediction.analysis.h2h.home_wins}W &bull; Draw {prediction.analysis.h2h.draws}D &bull; {away} {prediction.analysis.h2h.away_wins}W</p>
                   </div>
                 )}
               </div>
@@ -218,10 +216,7 @@ export default function Home() {
         </div>
       </main>
 
-      <style jsx>{`
-        @keyframes fade-in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-        .animate-fade-in { animation: fade-in 0.5s ease-out; }
-      `}</style>
+      <style jsx>{`@keyframes fade-in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}.animate-fade-in{animation:fade-in .5s ease-out}`}</style>
     </div>
   );
 }
