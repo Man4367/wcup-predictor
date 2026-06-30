@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --wcup-orange: #ff6b00;
+  --wcup-gold: #ffd700;
+  --wcup-dark: #0a0e17;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--wcup-dark);
+  color: #e2e8f0;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #141b2d;
+}
+::-webkit-scrollbar-thumb {
+  background: #1e2a45;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #ff6b00;
+}
+
+/* Gradient backgrounds */
+.bg-gradient-dark {
+  background: linear-gradient(135deg, #0a0e17 0%, #141b2d 50%, #0a0e17 100%);
+}
+
+.bg-gradient-orange {
+  background: linear-gradient(135deg, #ff6b00 0%, #ff8c38 100%);
+}
+
+.bg-gradient-card {
+  background: linear-gradient(145deg, rgba(20, 27, 45, 0.9) 0%, rgba(30, 42, 69, 0.5) 100%);
+}
+
+/* Animated probability bars */
+.prob-bar {
+  transition: width 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 4px;
+}
+
+.prob-bar-home {
+  background: linear-gradient(90deg, #ff6b00, #ff8c38);
+}
+
+.prob-bar-draw {
+  background: linear-gradient(90deg, #64748b, #94a3b8);
+}
+
+.prob-bar-away {
+  background: linear-gradient(90deg, #3b82f6, #60a5fa);
+}
+
+/* Glass effect */
+.glass {
+  background: rgba(20, 27, 45, 0.7);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(30, 42, 69, 0.5);
+}
+
+.glass-hover:hover {
+  background: rgba(30, 42, 69, 0.8);
+  border-color: rgba(255, 107, 0, 0.3);
+}
+
+/* Autocomplete dropdown */
+.autocomplete-dropdown {
+  max-height: 250px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+
+/* Shimmer loading effect */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.shimmer {
+  background: linear-gradient(90deg, #141b2d 25%, #1e2a45 50%, #141b2d 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+/* Glow effects */
+.glow-orange {
+  box-shadow: 0 0 20px rgba(255, 107, 0, 0.3), 0 0 60px rgba(255, 107, 0, 0.1);
+}
+
+.text-glow-orange {
+  text-shadow: 0 0 10px rgba(255, 107, 0, 0.5), 0 0 30px rgba(255, 107, 0, 0.2);
+}
+
+/* Match card hover */
+.match-card {
+  transition: all 0.3s ease;
+}
+.match-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(255, 107, 0, 0.15);
+}
+
+/* Input focus */
+input:focus, select:focus {
+  outline: none;
+  border-color: #ff6b00;
+  box-shadow: 0 0 0 3px rgba(255, 107, 0, 0.2);
+}

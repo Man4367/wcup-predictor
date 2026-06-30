@@ -1,0 +1,2368 @@
+{
+  "Ellan Vannin": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.2
+  },
+  "Jamaica": {
+    "rank": 71,
+    "points": 1357.840144,
+    "confederation": "CONCACAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.1
+  },
+  "Yoruba Nation": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -0.5
+  },
+  "Zimbabwe": {
+    "rank": 130,
+    "points": 1119.77695,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.2
+  },
+  "Iraqi Kurdistan": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": 1.4
+  },
+  "Saudi Arabia": {
+    "rank": 61,
+    "points": 1421.538339,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.7
+  },
+  "Dominican Republic": {
+    "rank": 143,
+    "points": 1076.498501,
+    "confederation": "CONCACAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.6
+  },
+  "United Koreans in Japan": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": 1.1
+  },
+  "Andorra": {
+    "rank": 172,
+    "points": 946.429826,
+    "confederation": "UEFA",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.1
+  },
+  "Saint Vincent and the Grenadines": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6,
+    "goal_diff_avg": 1.5
+  },
+  "Trinidad and Tobago": {
+    "rank": 103,
+    "points": 1221.951833,
+    "confederation": "CONCACAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.3
+  },
+  "Kyrgyz Republic": {
+    "rank": 106,
+    "points": 1191.655395,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Congo": {
+    "rank": 134,
+    "points": 1105.964661,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.7
+  },
+  "Tamil Eelam": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.8,
+    "goal_diff_avg": 1.4
+  },
+  "Bahamas": {
+    "rank": 207,
+    "points": 786.816217,
+    "confederation": "CONCACAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -2.7
+  },
+  "Finland": {
+    "rank": 75,
+    "points": 1341.922408,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.6
+  },
+  "Bosnia-Herzegovina": {
+    "rank": 64,
+    "points": 1387.215771,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": NaN
+  },
+  "Saint Martin": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Yorkshire": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.7143,
+    "goal_diff_avg": 2.2857
+  },
+  "Namibia": {
+    "rank": 121,
+    "points": 1148.839695,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.9
+  },
+  "Greece": {
+    "rank": 48,
+    "points": 1473.187305,
+    "confederation": "UEFA",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.4
+  },
+  "Morocco": {
+    "rank": 7,
+    "points": 1755.100232,
+    "confederation": "CAF",
+    "recent_form": 0.7,
+    "goal_diff_avg": NaN
+  },
+  "Eritrea": {
+    "rank": 184,
+    "points": 887.063341,
+    "confederation": "CAF",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.7
+  },
+  "Nepal": {
+    "rank": 177,
+    "points": 914.541224,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.4
+  },
+  "Gabon": {
+    "rank": 86,
+    "points": 1272.508139,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.1
+  },
+  "Paraguay": {
+    "rank": 40,
+    "points": 1505.349689,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "Serbia and Montenegro": {
+    "rank": 19.0,
+    "points": 678.0,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "New Zealand": {
+    "rank": 85,
+    "points": 1275.581062,
+    "confederation": "OFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.3
+  },
+  "Kurdistan": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.8,
+    "goal_diff_avg": 2.0
+  },
+  "Scotland": {
+    "rank": 42,
+    "points": 1503.34027,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.4
+  },
+  "Portugal": {
+    "rank": 5,
+    "points": 1766.177547,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "Belarus": {
+    "rank": 96,
+    "points": 1241.324607,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.8
+  },
+  "Ry\u016bky\u016b": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -9.0
+  },
+  "Elba Island": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 1.0,
+    "goal_diff_avg": 3.5
+  },
+  "Azerbaijan": {
+    "rank": 126,
+    "points": 1130.263211,
+    "confederation": "UEFA",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.9
+  },
+  "Crimea": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6,
+    "goal_diff_avg": -0.8
+  },
+  "Turkey": {
+    "rank": 22,
+    "points": 1605.730921,
+    "confederation": "UEFA",
+    "recent_form": 0.7,
+    "goal_diff_avg": 1.0
+  },
+  "Saugeais": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": 0.0
+  },
+  "Dominica": {
+    "rank": 182,
+    "points": 897.686437,
+    "confederation": "CONCACAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.1
+  },
+  "Quebec": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6667,
+    "goal_diff_avg": 7.3333
+  },
+  "Australia": {
+    "rank": 27,
+    "points": 1579.34264,
+    "confederation": "AFC",
+    "recent_form": 0.3,
+    "goal_diff_avg": NaN
+  },
+  "Italy": {
+    "rank": 12,
+    "points": 1704.733836,
+    "confederation": "UEFA",
+    "recent_form": 0.8,
+    "goal_diff_avg": 1.4
+  },
+  "Libya": {
+    "rank": 111,
+    "points": 1182.081264,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.2
+  },
+  "Timor-Leste": {
+    "rank": 201,
+    "points": 825.639984,
+    "confederation": "AFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -2.9
+  },
+  "R\u00e9union": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.0
+  },
+  "Parishes of Jersey": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6667,
+    "goal_diff_avg": 2.3333
+  },
+  "Estonia": {
+    "rank": 128,
+    "points": 1126.256951,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.8
+  },
+  "Hong Kong, China": {
+    "rank": 154,
+    "points": 1030.240953,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Tanzania": {
+    "rank": 113,
+    "points": 1180.267847,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.2
+  },
+  "Nigeria": {
+    "rank": 26,
+    "points": 1586.688586,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.1
+  },
+  "New Caledonia": {
+    "rank": 151,
+    "points": 1036.952253,
+    "confederation": "OFC",
+    "recent_form": 0.6,
+    "goal_diff_avg": 1.3
+  },
+  "Uruguay": {
+    "rank": 16,
+    "points": 1673.068603,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.3
+  },
+  "Netherlands": {
+    "rank": 8,
+    "points": 1751.097835,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "France": {
+    "rank": 3,
+    "points": 1869.428449,
+    "confederation": "UEFA",
+    "recent_form": 0.8,
+    "goal_diff_avg": NaN
+  },
+  "Tonga": {
+    "rank": 200,
+    "points": 835.64241,
+    "confederation": "OFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -3.3
+  },
+  "Bhutan": {
+    "rank": 188,
+    "points": 875.845061,
+    "confederation": "AFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -2.1
+  },
+  "Republic of Ireland": {
+    "rank": 58,
+    "points": 1441.096901,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.8
+  },
+  "Mongolia": {
+    "rank": 190,
+    "points": 874.469074,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.9
+  },
+  "Fiji": {
+    "rank": 155,
+    "points": 1024.384218,
+    "confederation": "OFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -2.1
+  },
+  "Pakistan": {
+    "rank": 199,
+    "points": 837.151593,
+    "confederation": "AFC",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.7
+  },
+  "Orkney": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.1
+  },
+  "India": {
+    "rank": 139,
+    "points": 1083.601894,
+    "confederation": "AFC",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.0
+  },
+  "North Macedonia": {
+    "rank": 69,
+    "points": 1369.159317,
+    "confederation": "UEFA",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.0
+  },
+  "Myanmar": {
+    "rank": 158,
+    "points": 1015.138408,
+    "confederation": "AFC",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.8
+  },
+  "Syria": {
+    "rank": 84,
+    "points": 1283.051902,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.1
+  },
+  "Gambia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.6
+  },
+  "Czechoslovakia": {
+    "rank": 18.0,
+    "points": 47.0,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Ukraine": {
+    "rank": 32,
+    "points": 1549.287173,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": -0.1
+  },
+  "Montenegro": {
+    "rank": 80,
+    "points": 1301.977191,
+    "confederation": "UEFA",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.7
+  },
+  "Provence": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": 3.5
+  },
+  "Curacao": {
+    "rank": 82,
+    "points": 1294.76909,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.6
+  },
+  "Sierra Leone": {
+    "rank": 118,
+    "points": 1153.309176,
+    "confederation": "CAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.0
+  },
+  "Ticino": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -5.5
+  },
+  "England": {
+    "rank": 4,
+    "points": 1827.048678,
+    "confederation": "UEFA",
+    "recent_form": 0.6,
+    "goal_diff_avg": NaN
+  },
+  "Latvia": {
+    "rank": 136,
+    "points": 1090.261315,
+    "confederation": "UEFA",
+    "recent_form": 0.0,
+    "goal_diff_avg": -0.9
+  },
+  "Belgium": {
+    "rank": 9,
+    "points": 1742.235945,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "Gotland": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": 1.0
+  },
+  "Israel": {
+    "rank": 76,
+    "points": 1333.904007,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.2
+  },
+  "Tibet": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.5
+  },
+  "Zanzibar": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6,
+    "goal_diff_avg": 0.5
+  },
+  "Saint Kitts and Nevis": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.6
+  },
+  "Guadeloupe": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.4
+  },
+  "Russia": {
+    "rank": 35,
+    "points": 1527.237131,
+    "confederation": "UEFA",
+    "recent_form": 0.6,
+    "goal_diff_avg": 1.2
+  },
+  "United States Virgin Islands": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.5
+  },
+  "Chagos Islands": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.1,
+    "goal_diff_avg": -4.1
+  },
+  "Barbados": {
+    "rank": 179,
+    "points": 909.893208,
+    "confederation": "CONCACAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.1
+  },
+  "Mapuche": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.5
+  },
+  "Bangladesh": {
+    "rank": 181,
+    "points": 902.92965,
+    "confederation": "AFC",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.1
+  },
+  "Vietnam": {
+    "rank": 99,
+    "points": 1225.67943,
+    "confederation": "AFC",
+    "recent_form": 0.9,
+    "goal_diff_avg": 1.4
+  },
+  "South Sudan": {
+    "rank": 170,
+    "points": 970.944527,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.4
+  },
+  "Felvid\u00e9k": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.5
+  },
+  "G\u0103g\u0103uzia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.3333
+  },
+  "Guyana": {
+    "rank": 150,
+    "points": 1049.320241,
+    "confederation": "CONCACAF",
+    "recent_form": 0.8,
+    "goal_diff_avg": 1.4
+  },
+  "Cuba": {
+    "rank": 164,
+    "points": 981.423455,
+    "confederation": "CONCACAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.9
+  },
+  "Ecuador": {
+    "rank": 23,
+    "points": 1598.51582,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "Slovakia": {
+    "rank": 47,
+    "points": 1473.660727,
+    "confederation": "UEFA",
+    "recent_form": 0.6,
+    "goal_diff_avg": 0.0
+  },
+  "Sao Tome and Principe": {
+    "rank": 194.0,
+    "points": 0.0,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Laos": {
+    "rank": 185,
+    "points": 885.028891,
+    "confederation": "AFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.8
+  },
+  "Colombia": {
+    "rank": 13,
+    "points": 1698.351858,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.6,
+    "goal_diff_avg": NaN
+  },
+  "Greenland": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.8
+  },
+  "Mali": {
+    "rank": 54,
+    "points": 1455.586659,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.3
+  },
+  "Bolivia": {
+    "rank": 77,
+    "points": 1325.995377,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.4
+  },
+  "Guinea": {
+    "rank": 81,
+    "points": 1295.598845,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.3
+  },
+  "China": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.4
+  },
+  "Lesotho": {
+    "rank": 146,
+    "points": 1064.285838,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.2
+  },
+  "Slovenia": {
+    "rank": 59,
+    "points": 1441.087158,
+    "confederation": "UEFA",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.6
+  },
+  "Chinese Taipei": {
+    "rank": 174,
+    "points": 923.782643,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Burkina Faso": {
+    "rank": 62,
+    "points": 1408.541965,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.5
+  },
+  "Yemen": {
+    "rank": 145,
+    "points": 1065.236881,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.8
+  },
+  "Cook Islands": {
+    "rank": 186,
+    "points": 877.534995,
+    "confederation": "OFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -2.8
+  },
+  "Germany": {
+    "rank": 10,
+    "points": 1735.771984,
+    "confederation": "UEFA",
+    "recent_form": 0.8,
+    "goal_diff_avg": NaN
+  },
+  "Andalusia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.7778,
+    "goal_diff_avg": 1.4444
+  },
+  "Faroe Islands": {
+    "rank": 125,
+    "points": 1131.984479,
+    "confederation": "UEFA",
+    "recent_form": 0.7,
+    "goal_diff_avg": 0.6
+  },
+  "S\u00e1pmi": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.9
+  },
+  "Silesia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": 0.0
+  },
+  "Papua New Guinea": {
+    "rank": 168,
+    "points": 974.9011,
+    "confederation": "OFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.3
+  },
+  "Cilento": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.0
+  },
+  "Cape Verde": {
+    "rank": 67,
+    "points": 1371.10798,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": NaN
+  },
+  "Yugoslavia": {
+    "rank": 29.0,
+    "points": 39.0,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "American Samoa": {
+    "rank": 192,
+    "points": 871.612081,
+    "confederation": "OFC",
+    "recent_form": 0.0,
+    "goal_diff_avg": -6.0
+  },
+  "Franconia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6667,
+    "goal_diff_avg": -1.0
+  },
+  "Sri Lanka": {
+    "rank": 191,
+    "points": 871.820215,
+    "confederation": "AFC",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.6
+  },
+  "County of Nice": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6667,
+    "goal_diff_avg": 0.6667
+  },
+  "Northern Ireland": {
+    "rank": 70,
+    "points": 1366.564198,
+    "confederation": "UEFA",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.2
+  },
+  "Luxembourg": {
+    "rank": 98,
+    "points": 1232.81815,
+    "confederation": "UEFA",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.3
+  },
+  "Ethiopia": {
+    "rank": 142,
+    "points": 1077.086308,
+    "confederation": "CAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.2
+  },
+  "Cyprus": {
+    "rank": 123,
+    "points": 1133.247165,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.1
+  },
+  "San Marino": {
+    "rank": 211,
+    "points": 722.933728,
+    "confederation": "UEFA",
+    "recent_form": 0.0,
+    "goal_diff_avg": -3.2
+  },
+  "Honduras": {
+    "rank": 65,
+    "points": 1378.970301,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": 0.0
+  },
+  "Maule Sur": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 1.0,
+    "goal_diff_avg": 1.0
+  },
+  "Abkhazia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.1
+  },
+  "Niger": {
+    "rank": 112,
+    "points": 1180.416678,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.4
+  },
+  "Vanuatu": {
+    "rank": 160,
+    "points": 1002.318941,
+    "confederation": "OFC",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.6
+  },
+  "Norway": {
+    "rank": 31,
+    "points": 1557.437664,
+    "confederation": "UEFA",
+    "recent_form": 0.6,
+    "goal_diff_avg": NaN
+  },
+  "Cambodia": {
+    "rank": 176,
+    "points": 916.241304,
+    "confederation": "AFC",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.2
+  },
+  "Isle of Man": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.7,
+    "goal_diff_avg": 2.3
+  },
+  "Turkmenistan": {
+    "rank": 140,
+    "points": 1078.652346,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.2
+  },
+  "Belize": {
+    "rank": 180,
+    "points": 907.001211,
+    "confederation": "CONCACAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -1.2
+  },
+  "Ivory Coast": {
+    "rank": 33,
+    "points": 1540.869533,
+    "confederation": "CAF",
+    "recent_form": 0.7,
+    "goal_diff_avg": NaN
+  },
+  "Sz\u00e9kely Land": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.1
+  },
+  "Isle of Wight": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.7,
+    "goal_diff_avg": 1.0
+  },
+  "Aymara": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.5
+  },
+  "Grenada": {
+    "rank": 163,
+    "points": 981.823973,
+    "confederation": "CONCACAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": -0.4
+  },
+  "Seychelles": {
+    "rank": 204,
+    "points": 804.161509,
+    "confederation": "CAF",
+    "recent_form": 0.0,
+    "goal_diff_avg": -5.1
+  },
+  "Brazil": {
+    "rank": 6,
+    "points": 1765.856297,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.6,
+    "goal_diff_avg": NaN
+  },
+  "Saint Pierre and Miquelon": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -10.8571
+  },
+  "Sudan": {
+    "rank": 117,
+    "points": 1157.223901,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.2
+  },
+  "North Korea": {
+    "rank": 120,
+    "points": 1151.052136,
+    "confederation": "AFC",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.1
+  },
+  "Mauritius": {
+    "rank": 178,
+    "points": 911.487501,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.9
+  },
+  "Fr\u00f8ya": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.1,
+    "goal_diff_avg": -2.6
+  },
+  "Cayman Islands": {
+    "rank": 197,
+    "points": 850.061011,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.5
+  },
+  "French Guiana": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.2
+  },
+  "Jordan": {
+    "rank": 63,
+    "points": 1387.738222,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.9
+  },
+  "United States": {
+    "rank": 17,
+    "points": 1671.2341,
+    "confederation": "CONCACAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "Brunei": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -2.0
+  },
+  "Canada": {
+    "rank": 30,
+    "points": 1559.479301,
+    "confederation": "CONCACAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": NaN
+  },
+  "Shetland": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.2
+  },
+  "Vatican City": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.875
+  },
+  "Suriname": {
+    "rank": 124,
+    "points": 1132.425895,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.1
+  },
+  "Romania": {
+    "rank": 53,
+    "points": 1455.894657,
+    "confederation": "UEFA",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.1
+  },
+  "Western Armenia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.7
+  },
+  "Hitra": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.6
+  },
+  "Equatorial Guinea": {
+    "rank": 105,
+    "points": 1195.197081,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.0
+  },
+  "Ynys M\u00f4n": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.9,
+    "goal_diff_avg": 1.1
+  },
+  "Kenya": {
+    "rank": 109,
+    "points": 1185.076631,
+    "confederation": "CAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.3
+  },
+  "Burundi": {
+    "rank": 141,
+    "points": 1078.009468,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.8
+  },
+  "Chameria": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4286,
+    "goal_diff_avg": 0.8571
+  },
+  "Croatia": {
+    "rank": 11,
+    "points": 1714.865572,
+    "confederation": "UEFA",
+    "recent_form": 0.7,
+    "goal_diff_avg": NaN
+  },
+  "Biafra": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6667,
+    "goal_diff_avg": 0.3333
+  },
+  "Tuvalu": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -4.3
+  },
+  "Zambia": {
+    "rank": 91,
+    "points": 1255.821846,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.8
+  },
+  "Uganda": {
+    "rank": 88,
+    "points": 1264.090591,
+    "confederation": "CAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.1
+  },
+  "Angola": {
+    "rank": 89,
+    "points": 1262.219698,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.3
+  },
+  "Mozambique": {
+    "rank": 102,
+    "points": 1224.311107,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.5
+  },
+  "Mauritania": {
+    "rank": 115,
+    "points": 1171.596379,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.5
+  },
+  "Afghanistan": {
+    "rank": 169,
+    "points": 971.202635,
+    "confederation": "AFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.1
+  },
+  "Ghana": {
+    "rank": 73,
+    "points": 1346.881205,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": NaN
+  },
+  "Benin": {
+    "rank": 90,
+    "points": 1258.224853,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -1.4
+  },
+  "Denmark": {
+    "rank": 21,
+    "points": 1619.474248,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.4
+  },
+  "Macau": {
+    "rank": 194,
+    "points": 858.03342,
+    "confederation": "AFC",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.5
+  },
+  "Qatar": {
+    "rank": 57,
+    "points": 1450.307729,
+    "confederation": "AFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.3
+  },
+  "Philippines": {
+    "rank": 135,
+    "points": 1096.72639,
+    "confederation": "AFC",
+    "recent_form": 0.8,
+    "goal_diff_avg": 1.8
+  },
+  "British Virgin Islands": {
+    "rank": 209,
+    "points": 777.405734,
+    "confederation": "CONCACAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.2
+  },
+  "Bulgaria": {
+    "rank": 87,
+    "points": 1271.683325,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.8
+  },
+  "El Salvador": {
+    "rank": 101,
+    "points": 1225.344607,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.9
+  },
+  "Surrey": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 1.0,
+    "goal_diff_avg": 2.0
+  },
+  "Armenia": {
+    "rank": 107,
+    "points": 1191.334973,
+    "confederation": "UEFA",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.7
+  },
+  "Menorca": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.6
+  },
+  "Egypt": {
+    "rank": 29,
+    "points": 1562.367246,
+    "confederation": "CAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": NaN
+  },
+  "Malaysia": {
+    "rank": 137,
+    "points": 1086.218087,
+    "confederation": "AFC",
+    "recent_form": 0.7,
+    "goal_diff_avg": 1.3
+  },
+  "Monaco": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -1.6
+  },
+  "Corsica": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4286,
+    "goal_diff_avg": 0.5714
+  },
+  "Rwanda": {
+    "rank": 127,
+    "points": 1126.622275,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.4
+  },
+  "Chad": {
+    "rank": 183,
+    "points": 896.852819,
+    "confederation": "CAF",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.3
+  },
+  "Mexico": {
+    "rank": 14,
+    "points": 1687.481759,
+    "confederation": "CONCACAF",
+    "recent_form": 0.7,
+    "goal_diff_avg": NaN
+  },
+  "Darfur": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -14.0
+  },
+  "Maldives": {
+    "rank": 173,
+    "points": 943.917901,
+    "confederation": "AFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.4
+  },
+  "Hungary": {
+    "rank": 41,
+    "points": 1504.135797,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.5
+  },
+  "Saare County": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.5
+  },
+  "Bahrain": {
+    "rank": 93,
+    "points": 1254.406799,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.8
+  },
+  "Panjab": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": 1.6
+  },
+  "Uzbekistan": {
+    "rank": 50,
+    "points": 1461.208132,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.8
+  },
+  "Western Isles": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.8
+  },
+  "Haiti": {
+    "rank": 83,
+    "points": 1293.096585,
+    "confederation": "CONCACAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.4
+  },
+  "Argentina": {
+    "rank": 1,
+    "points": 1876.118331,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.9,
+    "goal_diff_avg": NaN
+  },
+  "Taiwan": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.5
+  },
+  "Kabylia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.1667,
+    "goal_diff_avg": -1.1667
+  },
+  "Kernow": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.75,
+    "goal_diff_avg": 1.625
+  },
+  "Tunisia": {
+    "rank": 46,
+    "points": 1476.405088,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.6
+  },
+  "Netherlands Antilles": {
+    "rank": 173.0,
+    "points": 43.0,
+    "confederation": "CONCACAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "St Kitts and Nevis": {
+    "rank": 152,
+    "points": 1036.334924,
+    "confederation": "CONCACAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Alderney": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -2.3
+  },
+  "Romani people": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2857,
+    "goal_diff_avg": -1.8571
+  },
+  "Eswatini": {
+    "rank": 165,
+    "points": 979.013939,
+    "confederation": "CAF",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.7
+  },
+  "Comoros": {
+    "rank": 108,
+    "points": 1187.9109,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.7
+  },
+  "Solomon Islands": {
+    "rank": 153,
+    "points": 1031.894156,
+    "confederation": "OFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.3
+  },
+  "Aruba": {
+    "rank": 189,
+    "points": 875.61115,
+    "confederation": "CONCACAF",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.4
+  },
+  "Mayotte": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.4
+  },
+  "Luhansk PR": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3333,
+    "goal_diff_avg": -0.5
+  },
+  "Saint Lucia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -2.2
+  },
+  "Brunei Darussalam": {
+    "rank": 193,
+    "points": 863.09176,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Senegal": {
+    "rank": 15,
+    "points": 1686.412769,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "Samoa": {
+    "rank": 187,
+    "points": 876.407812,
+    "confederation": "OFC",
+    "recent_form": 0.4,
+    "goal_diff_avg": -1.8
+  },
+  "Singapore": {
+    "rank": 149,
+    "points": 1057.950212,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.6
+  },
+  "Georgia": {
+    "rank": 72,
+    "points": 1355.261687,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.4
+  },
+  "Puerto Rico": {
+    "rank": 156,
+    "points": 1024.297312,
+    "confederation": "CONCACAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.8
+  },
+  "Occitania": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.7,
+    "goal_diff_avg": 2.7
+  },
+  "Two Sicilies": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.1667,
+    "goal_diff_avg": -2.5
+  },
+  "United Arab Emirates": {
+    "rank": 68,
+    "points": 1370.469434,
+    "confederation": "AFC",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.2
+  },
+  "Martinique": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.6
+  },
+  "Serbia": {
+    "rank": 43,
+    "points": 1502.133186,
+    "confederation": "UEFA",
+    "recent_form": 0.4,
+    "goal_diff_avg": -1.3
+  },
+  "Czech Republic": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.7
+  },
+  "Moldova": {
+    "rank": 159,
+    "points": 1006.537824,
+    "confederation": "UEFA",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.3
+  },
+  "Venezuela": {
+    "rank": 49,
+    "points": 1464.303811,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.6
+  },
+  "Austria": {
+    "rank": 24,
+    "points": 1597.404087,
+    "confederation": "UEFA",
+    "recent_form": 0.6,
+    "goal_diff_avg": NaN
+  },
+  "South Korea": {
+    "rank": 25,
+    "points": 1591.630886,
+    "confederation": "AFC",
+    "recent_form": 0.6,
+    "goal_diff_avg": 0.5
+  },
+  "Chile": {
+    "rank": 55,
+    "points": 1452.939983,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.5,
+    "goal_diff_avg": -0.2
+  },
+  "Western Sahara": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2222,
+    "goal_diff_avg": -2.4444
+  },
+  "Sark": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -17.5
+  },
+  "Matabeleland": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.375,
+    "goal_diff_avg": -0.875
+  },
+  "Jersey": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.8,
+    "goal_diff_avg": 1.7
+  },
+  "Tajikistan": {
+    "rank": 100,
+    "points": 1225.518979,
+    "confederation": "AFC",
+    "recent_form": 0.7,
+    "goal_diff_avg": 1.1
+  },
+  "Saint Helena": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -4.375
+  },
+  "Antigua and Barbuda": {
+    "rank": 162,
+    "points": 986.584414,
+    "confederation": "CONCACAF",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.9
+  },
+  "Guam": {
+    "rank": 203,
+    "points": 819.540575,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.4
+  },
+  "Ambazonia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.3333
+  },
+  "East Turkestan": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.2
+  },
+  "Kiribati": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -10.25
+  },
+  "Togo": {
+    "rank": 122,
+    "points": 1146.703618,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.1
+  },
+  "Indonesia": {
+    "rank": 119,
+    "points": 1151.448115,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.6
+  },
+  "Iran": {
+    "rank": 20,
+    "points": 1619.58163,
+    "confederation": "AFC",
+    "recent_form": 0.4,
+    "goal_diff_avg": 1.0
+  },
+  "Kuwait": {
+    "rank": 133,
+    "points": 1106.474587,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.7
+  },
+  "DR Congo": {
+    "rank": 45,
+    "points": 1479.684122,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "China PR": {
+    "rank": 92,
+    "points": 1254.848285,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Guernsey": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6,
+    "goal_diff_avg": 1.3
+  },
+  "Kyrgyzstan": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.7
+  },
+  "Switzerland": {
+    "rank": 19,
+    "points": 1650.064179,
+    "confederation": "UEFA",
+    "recent_form": 0.4,
+    "goal_diff_avg": NaN
+  },
+  "St Vincent and the Grenadines": {
+    "rank": 171,
+    "points": 968.269638,
+    "confederation": "CONCACAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Zaire": {
+    "rank": 60.0,
+    "points": 25.0,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Arameans Suryoye": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.4
+  },
+  "Saint Barth\u00e9lemy": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.5
+  },
+  "Hmong": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3333,
+    "goal_diff_avg": -1.3333
+  },
+  "Cameroon": {
+    "rank": 44,
+    "points": 1481.235245,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.3
+  },
+  "Wales": {
+    "rank": 37,
+    "points": 1516.946629,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.1
+  },
+  "US Virgin Islands": {
+    "rank": 208,
+    "points": 779.764266,
+    "confederation": "CONCACAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Guatemala": {
+    "rank": 97,
+    "points": 1238.74375,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.4
+  },
+  "Guinea-Bissau": {
+    "rank": 132,
+    "points": 1108.381553,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.1
+  },
+  "Madrid": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.0
+  },
+  "The Gambia": {
+    "rank": 116,
+    "points": 1159.637808,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Lebanon": {
+    "rank": 114,
+    "points": 1172.215162,
+    "confederation": "AFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.6
+  },
+  "Spain": {
+    "rank": 2,
+    "points": 1873.013187,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": NaN
+  },
+  "Gibraltar": {
+    "rank": 202,
+    "points": 820.260818,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.5
+  },
+  "K\u00e1rp\u00e1talja": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.2
+  },
+  "D\u00e9lvid\u00e9k": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.5
+  },
+  "Republic of St. Pauli": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.25,
+    "goal_diff_avg": 1.25
+  },
+  "Costa Rica": {
+    "rank": 52,
+    "points": 1457.00228,
+    "confederation": "CONCACAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.8
+  },
+  "Malawi": {
+    "rank": 129,
+    "points": 1122.488082,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": 0.0
+  },
+  "Djibouti": {
+    "rank": 196,
+    "points": 853.581786,
+    "confederation": "CAF",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.2
+  },
+  "Iraq": {
+    "rank": 56,
+    "points": 1451.153466,
+    "confederation": "AFC",
+    "recent_form": 0.3,
+    "goal_diff_avg": -1.2
+  },
+  "Falkland Islands": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.6
+  },
+  "Nicaragua": {
+    "rank": 131,
+    "points": 1114.634184,
+    "confederation": "CONCACAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.7
+  },
+  "Raetia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.7
+  },
+  "Malta": {
+    "rank": 161,
+    "points": 992.793497,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": -1.2
+  },
+  "Peru": {
+    "rank": 51,
+    "points": 1459.390555,
+    "confederation": "CONMEBOL",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.9
+  },
+  "Palestine": {
+    "rank": 95,
+    "points": 1244.216499,
+    "confederation": "AFC",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.4
+  },
+  "Bermuda": {
+    "rank": 167,
+    "points": 975.053746,
+    "confederation": "CONCACAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -1.2
+  },
+  "\u00c5land Islands": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.6
+  },
+  "Galicia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.375,
+    "goal_diff_avg": -0.625
+  },
+  "Somaliland": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3333,
+    "goal_diff_avg": -1.0
+  },
+  "Catalonia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.0
+  },
+  "Somalia": {
+    "rank": 198,
+    "points": 839.169697,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.3
+  },
+  "Padania": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 1.6
+  },
+  "St Lucia": {
+    "rank": 166,
+    "points": 976.708996,
+    "confederation": "CONCACAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Turks and Caicos Islands": {
+    "rank": 205,
+    "points": 803.980015,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.9
+  },
+  "Thailand": {
+    "rank": 94,
+    "points": 1250.763879,
+    "confederation": "AFC",
+    "recent_form": 0.6,
+    "goal_diff_avg": 1.4
+  },
+  "Sweden": {
+    "rank": 38,
+    "points": 1509.785392,
+    "confederation": "UEFA",
+    "recent_form": 0.4,
+    "goal_diff_avg": NaN
+  },
+  "Gozo": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": 1.2
+  },
+  "Tahiti": {
+    "rank": 157,
+    "points": 1019.036032,
+    "confederation": "OFC",
+    "recent_form": 0.5,
+    "goal_diff_avg": -0.2
+  },
+  "South Ossetia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.9
+  },
+  "Botswana": {
+    "rank": 147,
+    "points": 1063.631368,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.2
+  },
+  "Cascadia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5714,
+    "goal_diff_avg": 1.2857
+  },
+  "Lithuania": {
+    "rank": 148,
+    "points": 1061.22966,
+    "confederation": "UEFA",
+    "recent_form": 0.1,
+    "goal_diff_avg": -0.9
+  },
+  "Kazakhstan": {
+    "rank": 110,
+    "points": 1183.038315,
+    "confederation": "UEFA",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.3
+  },
+  "Poland": {
+    "rank": 36,
+    "points": 1526.183359,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.4
+  },
+  "Czechia": {
+    "rank": 39,
+    "points": 1505.737856,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Panama": {
+    "rank": 34,
+    "points": 1539.155509,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.6
+  },
+  "Hong Kong": {
+    "rank": 119.0,
+    "points": 5.0,
+    "confederation": "AFC",
+    "recent_form": 0.4,
+    "goal_diff_avg": 0.8
+  },
+  "Marshall Islands": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -2.5
+  },
+  "Rhodes": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.7,
+    "goal_diff_avg": 0.8
+  },
+  "Kosovo": {
+    "rank": 78,
+    "points": 1319.120924,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.3
+  },
+  "West Papua": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -3.0
+  },
+  "Algeria": {
+    "rank": 28,
+    "points": 1571.033293,
+    "confederation": "CAF",
+    "recent_form": 0.6,
+    "goal_diff_avg": NaN
+  },
+  "Liechtenstein": {
+    "rank": 206,
+    "points": 797.701009,
+    "confederation": "UEFA",
+    "recent_form": 0.1,
+    "goal_diff_avg": -3.0
+  },
+  "Iceland": {
+    "rank": 74,
+    "points": 1343.920201,
+    "confederation": "UEFA",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.1
+  },
+  "Northern Cyprus": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 2.0
+  },
+  "Donetsk PR": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3333,
+    "goal_diff_avg": 0.1667
+  },
+  "Northern Mariana Islands": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -3.4
+  },
+  "Seborga": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -1.0
+  },
+  "Bonaire": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.4
+  },
+  "Barawa": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.3,
+    "goal_diff_avg": -2.4
+  },
+  "Chechnya": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -8.6667
+  },
+  "Artsakh": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6,
+    "goal_diff_avg": 1.8
+  },
+  "South Africa": {
+    "rank": 60,
+    "points": 1428.379282,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": NaN
+  },
+  "Albania": {
+    "rank": 66,
+    "points": 1376.033234,
+    "confederation": "UEFA",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Anguilla": {
+    "rank": 210,
+    "points": 760.251852,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -2.0
+  },
+  "Basque Country": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6,
+    "goal_diff_avg": 1.5
+  },
+  "Sealand": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.4,
+    "goal_diff_avg": -0.1
+  },
+  "Central African Republic": {
+    "rank": 138,
+    "points": 1084.180103,
+    "confederation": "CAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.4
+  },
+  "Liberia": {
+    "rank": 144,
+    "points": 1074.686684,
+    "confederation": "CAF",
+    "recent_form": 0.3,
+    "goal_diff_avg": -0.2
+  },
+  "Brittany": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.6,
+    "goal_diff_avg": 0.2
+  },
+  "Madagascar": {
+    "rank": 104,
+    "points": 1202.689766,
+    "confederation": "CAF",
+    "recent_form": 0.5,
+    "goal_diff_avg": -0.2
+  },
+  "Canary Islands": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": 0.0
+  },
+  "Micronesia": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.0,
+    "goal_diff_avg": -13.0
+  },
+  "Japan": {
+    "rank": 18,
+    "points": 1661.576187,
+    "confederation": "AFC",
+    "recent_form": 0.8,
+    "goal_diff_avg": NaN
+  },
+  "Oman": {
+    "rank": 79,
+    "points": 1306.901717,
+    "confederation": "AFC",
+    "recent_form": 0.2,
+    "goal_diff_avg": -0.4
+  },
+  "S\u00e3o Tom\u00e9 and Pr\u00edncipe": {
+    "rank": 195,
+    "points": 855.438666,
+    "confederation": "CAF",
+    "recent_form": 0.1,
+    "goal_diff_avg": -1.5
+  },
+  "Montserrat": {
+    "rank": 175,
+    "points": 916.75251,
+    "confederation": "CONCACAF",
+    "recent_form": 0.2,
+    "goal_diff_avg": -1.4
+  },
+  "Sint Maarten": {
+    "rank": 100,
+    "points": 0,
+    "confederation": "UNK",
+    "recent_form": 0.5,
+    "goal_diff_avg": -0.9
+  }
+}
