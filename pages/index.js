@@ -4,7 +4,7 @@ import Head from 'next/head';
 const FLAG_MAP = {
   'Argentina':'🇦🇷','Australia':'🇦🇺','Austria':'🇦🇹','Belgium':'🇧🇪','Brazil':'🇧🇷',
   'Cameroon':'🇨🇲','Canada':'🇨🇦','Chile':'🇨🇱','Colombia':'🇨🇴','Costa Rica':'🇨🇷',
-  'Croatia':'🇭🇷','Czech Republic':'🇨🇿','Denmark':'🇩🇰','Ecuador':'🇪🇨','Egypt':'🇪🇬',
+  'Croatia':'🇭🇷','Czechia':'🇨🇿','Denmark':'🇩🇰','Ecuador':'🇪🇨','Egypt':'🇪🇬',
   'England':'🏴󠁧󠁢󠁥󠁮󠁧󠁿','France':'🇫🇷','Germany':'🇩🇪','Ghana':'🇬🇭','Greece':'🇬🇷',
   'Iceland':'🇮🇸','Iran':'🇮🇷','Iraq':'🇮🇶','Italy':'🇮🇹','Japan':'🇯🇵',
   'Mexico':'🇲🇽','Morocco':'🇲🇦','Netherlands':'🇳🇱','Nigeria':'🇳🇬','Norway':'🇳🇴',
@@ -12,38 +12,27 @@ const FLAG_MAP = {
   'Romania':'🇷🇴','Russia':'🇷🇺','Saudi Arabia':'🇸🇦','Scotland':'🏴󠁧󠁢󠁳󠁣󠁴󠁿',
   'Senegal':'🇸🇳','Serbia':'🇷🇸','South Korea':'🇰🇷','Spain':'🇪🇸','Sweden':'🇸🇪',
   'Switzerland':'🇨🇭','Tunisia':'🇹🇳','Turkey':'🇹🇷','Ukraine':'🇺🇦','Uruguay':'🇺🇾',
-  'USA':'🇺🇸','United States':'🇺🇸','Wales':'🏴󠁧󠁢󠁷󠁬󠁳󠁿','China':'🇨🇳',
-  'Algeria':'🇩🇿','Bosnia-Herzegovina':'🇧🇦','South Africa':'🇿🇦','Jamaica':'🇯🇲',
-  'Honduras':'🇭🇳','Korea Republic':'🇰🇷','Côte d\'Ivoire':'🇨🇮','DR Congo':'🇨🇩',
-  'Qatar':'🇶🇦','Czechia':'🇨🇿','Bosnia–Herz':'🇧🇦','Trinidad and Tobago':'🇹🇹',
-  'New Zealand':'🇳🇿','Ireland':'🇮🇪','Finland':'🇫🇮','Hungary':'🇭🇺',
-  'Slovakia':'🇸🇰','Slovenia':'🇸🇮','Israel':'🇮🇱','Bulgaria':'🇧🇬',
-  'North Macedonia':'🇲🇰','Georgia':'🇬🇪','Albania':'🇦🇱','Montenegro':'🇲🇪',
-  'Luxembourg':'🇱🇺','Armenia':'🇦🇲','Azerbaijan':'🇦🇿','Kazakhstan':'🇰🇿',
-  'Uzbekistan':'🇺🇿','Thailand':'🇹🇭','Vietnam':'🇻🇳','Malaysia':'🇲🇾',
-  'Indonesia':'🇮🇩','Philippines':'🇵🇭','India':'🇮🇳','Pakistan':'🇵🇰',
-  'Bangladesh':'🇧🇩','Nepal':'🇳🇵','Myanmar':'🇲🇲','Cambodia':'🇰🇭',
+  'USA':'🇺🇸','United States':'🇺🇸','Wales':'🏴󠁧󠁢󠁷󠁬󠁳󠁿','China PR':'🇨🇳',
+  'Algeria':'🇩🇿','South Africa':'🇿🇦','Qatar':'🇶🇦',
 };
+function getFlag(n){return FLAG_MAP[n]||'⚽'}
 
-function getFlag(name) {
-  return FLAG_MAP[name] || '🏳️';
-}
-
-function ProbabilityBar({ label, value, color, delay = 0 }) {
-  const [width, setWidth] = useState(0);
+function ProbabilityBar({ label, pct, color, delay = 0 }) {
+  const [w, setW] = useState(0);
   useEffect(() => {
-    const t = setTimeout(() => setWidth(value * 100), 100 + delay);
+    const t = setTimeout(() => setW(pct), 100 + delay);
     return () => clearTimeout(t);
-  }, [value, delay]);
+  }, [pct, delay]);
+
   return (
     <div className="mb-4">
       <div className="flex justify-between items-center mb-1">
         <span className="text-sm font-semibold text-gray-300">{label}</span>
-        <span className="text-lg font-bold" style={{color}}>{(value * 100).toFixed(1)}%</span>
+        <span className="text-lg font-bold" style={{color}}>{pct.toFixed(1)}%</span>
       </div>
       <div className="h-4 bg-gray-800 rounded-full overflow-hidden">
         <div className="h-full rounded-full transition-all duration-1000 ease-out"
-          style={{ width: `${width}%`, backgroundColor: color, boxShadow: `0 0 10px ${color}40` }} />
+          style={{ width: `${Math.min(w, 100)}%`, backgroundColor: color, boxShadow: `0 0 10px ${color}40` }} />
       </div>
     </div>
   );
@@ -128,7 +117,6 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
 
-      {/* Header */}
       <header className="relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-b from-orange-900/20 to-transparent" />
         <div className="relative max-w-4xl mx-auto px-4 pt-8 pb-6 text-center">
@@ -143,9 +131,7 @@ export default function Home() {
         </div>
       </header>
 
-      {/* Main */}
       <main className="max-w-4xl mx-auto px-4 pb-16">
-        {/* Selector Card */}
         <div className="bg-gray-900/80 backdrop-blur border border-gray-800 rounded-2xl p-6 mb-6">
           <div className="flex flex-col md:flex-row gap-4 items-end">
             <TeamSelector teams={teams} value={home} onChange={setHome} label="Home Team" />
@@ -155,10 +141,7 @@ export default function Home() {
             <TeamSelector teams={teams} value={away} onChange={setAway} label="Away Team" />
           </div>
           <button onClick={predict} disabled={loading || !home || !away}
-            className="w-full mt-4 py-3 rounded-xl font-bold text-lg transition-all
-            bg-gradient-to-r from-orange-600 to-orange-500 hover:from-orange-500 hover:to-orange-400
-            disabled:opacity-40 disabled:cursor-not-allowed
-            shadow-lg shadow-orange-900/30 hover:shadow-orange-800/50">
+            className="w-full mt-4 py-3 rounded-xl font-bold text-lg transition-all bg-gradient-to-r from-orange-600 to-orange-500 hover:from-orange-500 hover:to-orange-400 disabled:opacity-40 disabled:cursor-not-allowed shadow-lg shadow-orange-900/30 hover:shadow-orange-800/50">
             {loading ? (
               <span className="inline-flex items-center gap-2">
                 <svg className="animate-spin h-5 w-5" viewBox="0 0 24 24"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" /><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" /></svg>
@@ -168,7 +151,6 @@ export default function Home() {
           </button>
         </div>
 
-        {/* Result Card */}
         {prediction && (
           <div className="bg-gray-900/80 backdrop-blur border border-gray-800 rounded-2xl p-6 mb-6 animate-fade-in">
             <div className="flex items-center justify-center gap-4 mb-6">
@@ -187,11 +169,10 @@ export default function Home() {
               </div>
             </div>
 
-            <ProbabilityBar label={`${home} Win`} value={prediction.home_win_prob} color="#f97316" delay={0} />
-            <ProbabilityBar label="Draw" value={prediction.draw_prob} color="#6b7280" delay={200} />
-            <ProbabilityBar label={`${away} Win`} value={prediction.away_win_prob} color="#3b82f6" delay={400} />
+            <ProbabilityBar label={`${home} Win`} pct={prediction.home_win_prob} color="#f97316" delay={0} />
+            <ProbabilityBar label="Draw" pct={prediction.draw_prob} color="#6b7280" delay={200} />
+            <ProbabilityBar label={`${away} Win`} pct={prediction.away_win_prob} color="#3b82f6" delay={400} />
 
-            {/* Key Factors */}
             {prediction.analysis && (
               <div className="mt-6 pt-4 border-t border-gray-800">
                 <h3 className="text-xs uppercase tracking-wider text-gray-500 mb-3">Key Factors</h3>
@@ -208,6 +189,13 @@ export default function Home() {
                     </div>
                   ))}
                 </div>
+                {prediction.analysis.h2h && (
+                  <div className="mt-3 text-center">
+                    <p className="text-xs text-gray-500">
+                      Head-to-Head: {prediction.analysis.h2h.total} matches • {home} {prediction.analysis.h2h.home_wins}W • Draw {prediction.analysis.h2h.draws}D • {away} {prediction.analysis.h2h.away_wins}W
+                    </p>
+                  </div>
+                )}
               </div>
             )}
           </div>
@@ -219,26 +207,14 @@ export default function Home() {
           </div>
         )}
 
-        {/* Model Info */}
         <div className="bg-gray-900/40 border border-gray-800/50 rounded-xl p-4 mt-6">
           <h3 className="text-xs uppercase tracking-wider text-gray-500 mb-2">Model Info</h3>
           <div className="grid grid-cols-3 gap-4 text-center">
-            <div>
-              <p className="text-2xl font-bold text-orange-400">66.2%</p>
-              <p className="text-xs text-gray-500">Accuracy</p>
-            </div>
-            <div>
-              <p className="text-2xl font-bold text-orange-400">15,905</p>
-              <p className="text-xs text-gray-500">Training Samples</p>
-            </div>
-            <div>
-              <p className="text-2xl font-bold text-orange-400">338</p>
-              <p className="text-xs text-gray-500">Teams Covered</p>
-            </div>
+            <div><p className="text-2xl font-bold text-orange-400">66.2%</p><p className="text-xs text-gray-500">Accuracy</p></div>
+            <div><p className="text-2xl font-bold text-orange-400">15,905</p><p className="text-xs text-gray-500">Training Samples</p></div>
+            <div><p className="text-2xl font-bold text-orange-400">100</p><p className="text-xs text-gray-500">Teams Covered</p></div>
           </div>
-          <p className="text-xs text-gray-600 text-center mt-3">
-            XGBoost Classifier • 300 estimators • 10 engineered features • Head-to-head history weighted at 50.6%
-          </p>
+          <p className="text-xs text-gray-600 text-center mt-3">XGBoost Classifier • 300 estimators • 10 engineered features • H2H weighted at 50.6%</p>
         </div>
       </main>
 
